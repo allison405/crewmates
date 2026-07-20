@@ -1,4 +1,3 @@
-<img width="480" height="260" alt="gif (6)" src="https://github.com/user-attachments/assets/239beca2-4e3d-48e6-b7f5-5514662b496f" />
 # Web Development Project 7 - *Crewmates*
 
 Submitted by: **Allison Lee**
