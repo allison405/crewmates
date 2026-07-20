@@ -8,7 +8,6 @@ const Gallery = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Define the async fetcher inside the effect
     const fetchCrewmates = async () => {
       const { data, error } = await supabase
         .from('crewmates')
@@ -24,9 +23,8 @@ const Gallery = () => {
     };
 
     fetchCrewmates();
-  }, []); // Empty dependency array runs once on mount
+  }, []); 
 
-  // Delete crewmate directly from the summary list
   const handleDelete = async (id, name) => {
     const confirmDelete = window.confirm(`Are you sure you want to delete ${name}?`);
     if (!confirmDelete) return;

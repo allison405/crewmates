@@ -469,14 +469,12 @@ body {
   transform: translateX(4px);
 }
 
-/* Dynamic Page Content Area */
 .main-content {
   flex: 1;
   padding: 2rem;
   overflow-y: auto;
 }
 
-/* Mobile Responsiveness (Top Header instead of Sidebar on small screens) */
 @media (max-width: 768px) {
   .app-container {
     flex-direction: column;
