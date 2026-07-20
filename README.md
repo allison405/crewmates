@@ -2,14 +2,13 @@
 
 Submitted by: **Allison Lee**
 
-This web app: **insert description**
+This web app: **Lets users customize their own crew members with names, designated roles, power level, and color. The crewmates can be viewed, edited, and/or removed in the gallery.**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
-
 
 - [X] **The web app contains a page that features a create form to add a new crewmate**
   - Users can name the crewmate
@@ -49,18 +48,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ...  giphy.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Creating so many different pages had a lot of complications, such as making sure variable names matched, that updates would follow across all pages. Any updates to the crewmates variables would also need to be updated in the supabase.
 
 ## License
 
