@@ -1,3 +1,4 @@
+<img width="480" height="260" alt="gif (6)" src="https://github.com/user-attachments/assets/239beca2-4e3d-48e6-b7f5-5514662b496f" />
 # Web Development Project 7 - *Crewmates*
 
 Submitted by: **Allison Lee**
@@ -47,7 +48,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+<img width="480" height="260" alt="gif (6)" src="https://github.com/user-attachments/assets/bc5632ef-fe1a-433b-941c-377e849e8bcd" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  giphy.com
